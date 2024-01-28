@@ -3,6 +3,8 @@
 
 ## Data
 
+**NOTE: Data file is not available due to confidentiality!**
+
 The data contains 17404 rows with a list of 6-dimensional coordinates within a cube of side length 100.
 
 ## Task
