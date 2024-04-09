@@ -14,4 +14,4 @@ My job is to identify actual structure of the 6-dimensional data provided. This 
 
 ## Result
 
-My code produces a total of 12 plots (No-PCA and PCA plots for each cluster). The `pdf` file in the repository does a great job of showing the result.
+My code produces a total of 12 plots (Non-PCA and PCA plots for each cluster). The `pdf` file in the repository does a great job of showing the result.
